@@ -3,7 +3,7 @@ Adventure Game
 A text-based JavaScript adventure game where players navigate through locations, buy/sell weapons, and battle monsters.
 
 Player Stats
-XP: 0
+XP: 0,
 Health: 100
 Gold: 50
 Current Weapon: Stick
